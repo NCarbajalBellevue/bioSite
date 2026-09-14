@@ -1,0 +1,68 @@
+/*
+    Name: Natalia Carbajal
+    Date: 9/13/2026
+    Assignment: Module 6.3
+*/
+
+/* ---------- GENERAL PAGE ---------- */
+
+body {
+    background-color: #F5EAFB;
+    font-family: Arial, sans-serif;
+    color: #4B3A52;
+    margin: 0;
+}
+
+/* ---------- MAIN CONTAINER ---------- */
+
+#container {
+    width: 80%;
+    margin: 40px auto;
+}
+
+/* ---------- HEADINGS ---------- */
+
+h1 {
+    background-color: #C8A2C8;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: #D8B9E6;
+    color: #5B3E66;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+h3 {
+    color: #765080;
+    margin-top: 25px;
+}
+
+/* ---------- PARAGRAPHS ---------- */
+
+p {
+    line-height: 1.6;
+}
+
+/* ---------- LINKS ---------- */
+
+a {
+    color: #7B4B8A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #B565A7;
+    text-decoration: underline;
+}
+
+/* ---------- LISTS ---------- */
+
+li {
+    margin-bottom: 8px;
+}
