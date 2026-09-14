@@ -1,2 +1,4 @@
-# bioSite
-CSD340-300H Web Development with HTML and (2271-DD) bioSite
+# CSD 340 Web Development with HTML and CSS
+Contributors
+- Instructor: Sue Sampson
+- Student: Natalia Carbajal 
