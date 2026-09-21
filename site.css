@@ -1,7 +1,7 @@
 /*
     Name: Natalia Carbajal
-    Date: 9/13/2026
-    Assignment: Module 6.3
+    Date: 9/20/2026
+    Assignment: Module 7.2
 */
 
 /* ---------- GENERAL PAGE ---------- */
@@ -18,6 +18,40 @@ body {
 #container {
     width: 80%;
     margin: 40px auto;
+}
+
+/* ---------- HEADER ---------- */
+
+header {
+    background-color: #C8A2C8;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+    padding: 15px;
+}
+
+/* ---------- NAVIGATION ---------- */
+
+nav {
+    background-color: #D8B9E6;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: #5B3E66;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #B565A7;
+    text-decoration: underline;
 }
 
 /* ---------- HEADINGS ---------- */
@@ -61,8 +95,45 @@ a:hover {
     text-decoration: underline;
 }
 
+/* ---------- IMAGES ---------- */
+
+figure {
+    text-align: center;
+    margin: 25px auto;
+}
+
+figure img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+figcaption {
+    color: #765080;
+    font-style: italic;
+    margin-top: 8px;
+}
+
 /* ---------- LISTS ---------- */
 
 li {
     margin-bottom: 8px;
+}
+
+/* ---------- FOOTER ---------- */
+
+footer {
+    background-color: #C8A2C8;
+    padding: 10px 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    text-align: right;
+    margin: 0;
+}
+
+footer a {
+    color: white;
 }
