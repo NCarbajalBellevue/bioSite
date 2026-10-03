@@ -1,7 +1,7 @@
 /*
     Name: Natalia Carbajal
-    Date: 9/20/2026
-    Assignment: Module 7.2
+    Date: 10/2/2026
+    Assignment: Final bioSite Project
 */
 
 /* ---------- GENERAL PAGE ---------- */
@@ -54,6 +54,14 @@ nav a:hover {
     text-decoration: underline;
 }
 
+nav a.active {
+    background-color: #F5EAFB;
+    color: #5B3E66;
+    padding: 7px 12px;
+    border-radius: 6px;
+    text-decoration: underline;
+}
+
 /* ---------- HEADINGS ---------- */
 
 h1 {
@@ -74,6 +82,14 @@ h2 {
 h3 {
     color: #765080;
     margin-top: 25px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #D8B9E6;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #D8B9E6;
+    margin: 28px 0;
 }
 
 /* ---------- PARAGRAPHS ---------- */
